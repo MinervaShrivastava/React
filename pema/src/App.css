@@ -1,0 +1,18 @@
+.AppContainer {
+  margin: 0 auto;
+  border: 1px solid lightblue;
+  height: 600px;
+  width: 95%;
+}
+
+.header {
+  margin: 10px;
+  border: 1px solid lightskyblue;
+  height: 100px;  
+}
+
+.body {
+  margin: 10px;
+  border: 1px solid lightskyblue;
+  height: 450px;  
+}
